@@ -1,0 +1,1 @@
+data is in ./project1/project1/spiders/bloomberg.json
